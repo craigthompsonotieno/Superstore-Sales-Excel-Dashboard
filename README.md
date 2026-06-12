@@ -1,4 +1,4 @@
-\# Superstore Sales Performance Dashboard
+# Superstore Sales Performance Dashboard
 
 
 
@@ -6,7 +6,7 @@ This project presents an interactive sales performance dashboard built in Micros
 
 
 
-\## Project Objective
+## Project Objective
 
 
 
@@ -14,85 +14,85 @@ The objective of this project was to transform raw transactional sales data into
 
 
 
-\## Tools Used
+## Tools Used
 
 
 
-\- Microsoft Excel 365
+- Microsoft Excel 365
 
-\- Excel Tables
+- Excel Tables
 
-\- Pivot Tables
+- Pivot Tables
 
-\- Pivot Charts
+- Pivot Charts
 
-\- Slicers
+- Slicers
 
-\- Dashboard Design
+- Dashboard Design
 
-\- Data Cleaning
-
-
-
-\## Workbook Structure
+- Data Cleaning
 
 
 
-\- `01\_Raw Data` — original dataset
-
-\- `02\_Clean Data` — cleaned and enriched data
-
-\- `03\_Pivot Tables` — pivot tables used for dashboard visuals
-
-\- `04\_Dashboard\_Overview` — executive dashboard page
-
-\- `05\_Dashboard\_Details` — detailed performance dashboard page
-
-\- `06\_Insights` — key findings and business recommendations
+## Workbook Structure
 
 
 
-\## Key Insights
+- `01\_Raw Data` — original dataset
+
+- `02\_Clean Data` — cleaned and enriched data
+
+- `03\_Pivot Tables` — pivot tables used for dashboard visuals
+
+- `04\_Dashboard\_Overview` — executive dashboard page
+
+- `05\_Dashboard\_Details` — detailed performance dashboard page
+
+- `06\_Insights` — key findings and business recommendations
 
 
 
-\- Total sales were approximately $2.30M.
-
-\- Total profit was approximately $286K.
-
-\- The West region recorded the highest sales performance.
-
-\- Technology generated the strongest category profit.
-
-\- No Discount orders produced the highest profit.
-
-\- Medium and High Discount orders reduced profitability.
-
-\- Furniture had strong sales but weaker profit margins.
+## Key Insights
 
 
 
-\## Recommendations
+- Total sales were approximately $2.30M.
+
+- Total profit was approximately $286K.
+
+- The West region recorded the highest sales performance.
+
+- Technology generated the strongest category profit.
+
+- No Discount orders produced the highest profit.
+
+- Medium and High Discount orders reduced profitability.
+
+- Furniture had strong sales but weaker profit margins.
 
 
 
-\- Reduce unnecessary medium and high discounting.
-
-\- Review Furniture pricing, cost, and discount strategy.
-
-\- Prioritize Technology products in growth campaigns.
-
-\- Strengthen sales efforts in the South region.
-
-\- Monitor discount levels before approving large orders.
+## Recommendations
 
 
 
-\## Dashboard Preview
+- Reduce unnecessary medium and high discounting.
+
+- Review Furniture pricing, cost, and discount strategy.
+
+- Prioritize Technology products in growth campaigns.
+
+- Strengthen sales efforts in the South region.
+
+- Monitor discount levels before approving large orders.
 
 
 
-\### Dashboard Overview
+## Dashboard Preview
+
+
+
+### Dashboard Overview
 
 
 
@@ -100,7 +100,7 @@ The objective of this project was to transform raw transactional sales data into
 
 
 
-\### Dashboard Details
+### Dashboard Details
 
 
 
@@ -108,7 +108,7 @@ The objective of this project was to transform raw transactional sales data into
 
 
 
-\### Insights Page
+### Insights Page
 
 
 
